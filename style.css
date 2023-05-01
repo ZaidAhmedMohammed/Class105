@@ -1,0 +1,32 @@
+body 
+{
+background-color: aquamarine;
+}
+
+.header_div 
+{
+background-color: aliceblue;
+color:blueviolet;
+}
+
+.header_div p
+{
+font-family: 'Vina Sans';
+font-weight: bold;
+letter-spacing: 3px;
+font-size: 15px;
+}
+
+.main_div
+{
+    font-family: sans-serif;
+    letter-spacing: 2px;
+}
+
+.copy_right_footer
+{
+background-color: cornsilk;
+color: darkorange;
+font-size: 18px;
+text-shadow: 5px, 5px, 5px(black);
+}
